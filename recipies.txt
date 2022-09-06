@@ -12,7 +12,3 @@ dal
 curd
 
 
-chicken fry
-
-
-thank you 
